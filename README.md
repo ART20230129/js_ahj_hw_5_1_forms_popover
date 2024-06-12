@@ -1,3 +1,11 @@
+![CI](https://github.com/ART20230129/js_ahj_hw_3_events_goblin/actions/workflows/web.yml/badge.svg)
+
+[![Build status](https://ci.appveyor.com/api/projects/status/f4pvl804dtskxa72?svg=true)](https://ci.appveyor.com/project/ART20230129/js-ac-hw-4-1-clearfunction)
+
+Ссылка на [Github Pages](https://art20230129.github.io/js_ahj_hw_3_events_goblin/)
+
+
+
 # Домашнее задание к занятию "Работа с HTML-формами"
 
 Правила сдачи задания:
